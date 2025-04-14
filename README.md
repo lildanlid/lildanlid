@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">❤️ Support Me</p>
+<p align="center">❤️ Links to stuff</p>
 
 ###
 
