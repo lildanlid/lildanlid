@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [my Minecraft server](https://lildanlid.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://lildanlid-my-addons.carrd.co/#](https://lildanlid-my-addons.carrd.co/#)
+- 👨‍💻 All of my projects are available at [https://lildanlid-my-addons.carrd.co/#](https://lildanlid-my-addons.carrd.co/)
 
 - ⚡ Fun fact **I don't touch grass**
 
