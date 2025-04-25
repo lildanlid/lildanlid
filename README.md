@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="200" src="https://i.imgur.com/9iQ3n8k.png" />
-  <p>Hi! I'm lildanlid</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <div style="text-align: center;">
+    <img height="200" src="https://i.imgur.com/9iQ3n8k.png" style="float: left; margin-right: 10px;" />
+    <p style="margin: 0; font-size: 24px; line-height: 200px;">Hi! I'm lildanlid</p>
+  </div>
 </div>
 
 ###
@@ -23,19 +25,5 @@
   <a href="https://www.twitch.tv/lildanlid" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-  <a href="https://www.patreon.com/c/lildanlid/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/lildanlid/lildanlid/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch
+  <a href="https://
 
