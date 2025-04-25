@@ -1,30 +1,22 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <div style="text-align: center;">
-    <img height="200" src="https://i.imgur.com/9iQ3n8k.png" style="float: left; margin-right: 10px;" />
-    <p style="margin: 0; font-size: 24px; line-height: 200px;">Hi! I'm lildanlid</p>
-  </div>
-</div>
+<h1 align="center">Hi 👋, I'm lildanlid</h1>
+<h3 align="center">Im a Minecraft Bedrock addon creator</h3>
 
-###
+- 🔭 I’m currently working on [a Minecraft Server](https://lildanlid.github.io/)
 
-<p align="center">🚀 Languages I Use</p>
+- 🌱 I’m currently learning **Javascript**
 
-###
+- 🤝 I’m looking for help with [my Minecraft server](https://lildanlid.github.io/)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+- 👨‍💻 All of my projects are available at [https://lildanlid-my-addons.carrd.co/#](https://lildanlid-my-addons.carrd.co/#)
 
-###
+- ⚡ Fun fact **I don't touch grass**
 
-<p align="center">❤️ Links to stuff</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lildanlid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lildanlid" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <a href="https://www.twitch.tv/lildanlid" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://
-
-<img src="https://raw.githubusercontent.com/lildanlid/lildanlid/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lildanlid&show_icons=true&locale=en&layout=compact" alt="lildanlid" /></p>
