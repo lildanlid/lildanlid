@@ -1,10 +1,6 @@
-
-
-###
-
 <div align="left">
-  <img height="200" src="https://i.imgur.com/9iQ3n8k.png"  />
-  <p align="center">Hi! Im lildanlid</p>
+  <img height="200" src="https://i.imgur.com/9iQ3n8k.png" style="vertical-align: middle;" />
+  <span style="font-size: 24px; vertical-align: middle;">Hi! I'm lildanlid</span>
 </div>
 
 ###
@@ -43,5 +39,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/lildanlid/count.svg?"  />
 </div>
-
-###
