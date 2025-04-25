@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm lildanlid</h1>
 <h3 align="center">Im a Minecraft Bedrock addon creator</h3>
 
-- 🔭 I’m currently working on [a Minecraft Server](https://lildanlid.github.io/)
 
-- 🌱 I’m currently learning **Javascript**
+## 🌐 Socials:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lildanlid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lildanlid) 
 
-- 🤝 I’m looking for help with [my Minecraft server](https://lildanlid.github.io/)
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lildanlid&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lildanlid&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lildanlid&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [Website](https://lildanlid-my-addons.carrd.co/)
+---
+[![](https://visitcount.itsvg.in/api?id=lildanlid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I don't touch grass**
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/lildanlid) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lildanlid&show_icons=true&locale=en&layout=compact" alt="lildanlid" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
