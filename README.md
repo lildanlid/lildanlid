@@ -26,4 +26,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
   <a href="https://
-
+
+###
+
+<img src="https://raw.githubusercontent.com/lildanlid/lildanlid/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/lildanlid/count.svg?"  />
+</div>
+
+###
