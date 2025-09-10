@@ -1,16 +1,23 @@
+<pre style="font-family: monospace; font-size:12px; line-height:0.92; text-align:center;">
+ ___       ___  ___       ________  ________  ________   ___       ___  ________     
+|\  \     |\  \|\  \     |\   ___ \|\   __  \|\   ___  \|\  \     |\  \|\   ___ \    
+\ \  \    \ \  \ \  \    \ \  \_|\ \ \  \|\  \ \  \\ \  \ \  \    \ \  \ \  \_|\ \   
+ \ \  \    \ \  \ \  \    \ \  \ \\ \ \   __  \ \  \\ \  \ \  \    \ \  \ \  \ \\ \  
+  \ \  \____\ \  \ \  \____\ \  \_\\ \ \  \ \  \ \  \\ \  \ \  \____\ \  \ \  \_\\ \ 
+   \ \_______\ \__\ \_______\ \_______\ \__\ \__\ \__\\ \__\ \_______\ \__\ \_______\
+    \|_______|\|__|\|_______|\|_______|\|__|\|__|\|__| \|__|\|_______|\|__|\|_______|
+</pre>
 
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lildanlid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lildanlid) 
+---
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lildanlid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lildanlid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lildanlid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=lildanlid&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/lildanlid) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lildanlid)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lildanlid)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lildanlid)  [![Xbox](https://img.shields.io/badge/Xbox-107C10.svg?logo=Xbox&logoColor=white)](https://www.xbox.com/play/user/lildanlid)  [![PlayStation](https://img.shields.io/badge/PlayStation-003791.svg?logo=PlayStation&logoColor=white)](https://www.playstation.com/)  [![Website](https://img.shields.io/badge/Website-4285F4.svg?logo=Google-Chrome&logoColor=white)](https://lildanlid.github.io)
+
+---
+
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
